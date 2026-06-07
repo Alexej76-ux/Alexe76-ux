@@ -15,7 +15,7 @@ Ich arbeite vorwiegend mit **Python**, erstelle automatisierte Tests und erweite
 
 ---
 
-#🧰 Tech Stack & Tools
+🧰 Tech Stack & Tools
 Python Playwright pytest Selenium Robot Framework Docker GitHub Actions GitHub HTML5 CSS3 JavaScript SQLite
 
 🐍 Python — test automation, scripting, API testing
@@ -26,7 +26,6 @@ Python Playwright pytest Selenium Robot Framework Docker GitHub Actions GitHub H
 ⚙️ GitHub Actions — CI/CD pipelines with automated testing
 ✅ Manual & exploratory testing
 🌀 Agile methods — Scrum, Kanban
-n
 
 ---
 
