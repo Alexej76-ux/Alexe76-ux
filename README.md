@@ -19,7 +19,7 @@ Ich arbeite vorwiegend mit **Python**, erstelle automatisierte Tests und erweite
 Python Playwright pytest Selenium Robot Framework Docker GitHub Actions GitHub HTML5 CSS3 JavaScript SQLite
 
 🐍 Python — test automation, scripting, API testing
-🎭 Playwright & Selenium — UI test automation with Page Object Model
+🎭 Playwright & Selenium — UI test automation with Page Object Model(curently learning)
 🤖 Robot Framework — keyword-driven test automation (currently learning)
 🔎 Locators — CSS selectors, XPath, semantic locators
 🐳 Docker — containerization
